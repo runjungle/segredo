@@ -59,7 +59,7 @@ body{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-
+    background-color: #09102B;
     transition: height 1s;
 
     
